@@ -12,10 +12,6 @@
 //--------------------------------------------------------
 void main(void)
 {
-    puts("-----------------");
-    puts("| codedrome.com |");
-    puts("| Soundex       |");
-    puts("-----------------\n");
 
     char* names1[] = {"Johnson", "Adams", "Davis", "Simons", "Richards", "Taylor", "Carter", "Stevenson", "Taylor", "Smith", "McDonald", "Harris", "Sim", "Williams", "Baker", "Wells", "Fraser", "Jones", "Wilks", "Hunt", "Sanders", "Parsons", "Robson", "Harker"};
 
